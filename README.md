@@ -1,3 +1,14 @@
+# Dependencie
+sudo apt install python-tk
+
+# Install & Use
+git clone https://github.com/google/spatial-media
+
+cd spatial-media/spatialmedia
+
+./gui.py
+
+
 # Spatial Media
 
 A collection of specifications and tools for 360&deg; video and spatial audio, including:
